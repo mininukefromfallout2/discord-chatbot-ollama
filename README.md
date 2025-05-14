@@ -2,6 +2,8 @@
 
 This is a Discord bot that integrates with the Ollama API to generate responses based on a custom set of instructions. The bot can be activated to respond to all messages in a specific channel, and it can be deactivated when necessary. The bot uses the **aiohttp** library for asynchronous HTTP requests and supports custom instructions for more dynamic responses. It also logs commands with a timezone specified in `.env`. If the response is longer than 2000 characters the response will be in a .md file.
 
+## ⚠️ If you use Windows the bot might not be able to log commands or read the `instructions.txt` file. I suggest using Windows Subsystem for Linux to run the bot if you're using Windows.
+
 ## Requirements
 
 This project requires the following python dependencies:
