@@ -21,7 +21,7 @@ You also need git to clone the repository.
 
 ```bash
 # 1. Clone the repository to your local machine:
-git clone https://github.com/mininukefromfallout/discord-ollama-chatbot
+git clone https://github.com/mininukefromfallout2/discord-ollama-chatbot
 cd discord-ollama-chatbot
 
 # 2. Create a virtual environment (recommended but not required):
